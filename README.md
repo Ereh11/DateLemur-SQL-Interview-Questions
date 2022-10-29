@@ -15,37 +15,15 @@ This repository contains my solutions for the SQL challenges posted on [DataLemu
 
 The repository directory structure is as follows:
 
-DataLemur-SQL-Challenges<br>
-├─ 01_SCRIPTS<br>
+**DataLemur-SQL-Challenges:**
 
-The type of content present in the directories is as follows:
+This directory contains the solution PostgreSQL scripts for the challenges mentioned in the **Solution Scripts** table.
 
-**01_SCRIPTS**
 
-This directory contains the solution pgSQL scripts for the challenges mentioned in the **Solution Scripts** table.
-
-**02_RESOURCES**
-
-This directory contains images. that are used in this repository.
-
-> The SQL flavor used in the solution queries is **PostgreSQL**
-## Contents
-
-The solutions are provided in the following formats:
-
-- Solution Scripts
-- Solution Notebooks
-
-The **Solution Notebooks** and one stop shop for the SQL challenges of distinct difficulty level whereas the **Solution Scripts** are nothing but, individual SQL solution queries for individual problem.
-
-> The difficulty group tagging of a question might change in future by the author of website however, that doesn't affect the solution anyway as the question still remains the same.
-> The two different formats are made for ease of accessibility purpose only. The overall contents of **Solution Notebooks** and **Solution Scripts** are same.
-### Solution Scripts
-
-In the below table, the columns indicate the following attributes related to the weekly challenge:
+In the below table, the columns indicate the following attributes related to the challenge:
 
 - **ID :** Identity column for individual challenge
-- **Challenge :** Link to the SQL challenge hosted on [DataLemur][website_link]
+- **Challenge :** Link to the SQL challenge hosted on [DataLemur](https://datalemur.com/sql-interview-questions)
 - **Solution Script :** Link to the solution SQL script hosted in this repository
 
 #### Difficulty Level : Easy
