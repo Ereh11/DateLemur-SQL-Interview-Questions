@@ -1,4 +1,4 @@
-![Project Logo][datalemurcover]
+![Project Logo](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/Resources/datalemurcover.jpg)
 
 ---
 
