@@ -113,12 +113,3 @@ In the below table, the columns indicate the following attributes related to the
 | 05 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution](01_SCRIPTS/Hard/05_hard_doordash_bad_delivery_rate.sql)
 | 06 | []() | [Solution](01_SCRIPTS/Hard)
 
-
-### Solution Notebooks
-
-The following notebooks contains the solution along with some explanations (if required) for SQL challenges of distinct difficulty level.
-
-- [Difficulty Level : Easy]()
-- [Difficulty Level : Medium]()
-- [Difficulty Level : Hard]()
-
