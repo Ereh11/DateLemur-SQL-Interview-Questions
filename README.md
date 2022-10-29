@@ -1,4 +1,4 @@
-![Project Logo][project_logo]
+![Project Logo][datalemurcover]
 
 ---
 
