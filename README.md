@@ -11,14 +11,12 @@
 
 ## Overview
 
-This repository contains solution for the SQL challenges posted on [DataLemur][website_link] website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
+This repository contains my solutions for the SQL challenges posted on [DataLemur][website_link] website. The solution queries are executed on the integrated PostgreSQL environment on the same website.
 
 The repository directory structure is as follows:
 
 DataLemur-SQL-Challenges<br>
 ├─ 01_SCRIPTS<br>
-├─ 02_NOTEBOOKS<br>
-├─ 03_RESOURCES<br>
 
 The type of content present in the directories is as follows:
 
@@ -26,15 +24,11 @@ The type of content present in the directories is as follows:
 
 This directory contains the solution pgSQL scripts for the challenges mentioned in the **Solution Scripts** table.
 
-**02_NOTEBOOKS**
+**02_RESOURCES**
 
-This directory contains the solution pgSQL notebooks for the challenges for distinct difficulty levels
+This directory contains images. that are used in this repository.
 
-**03_RESOURCES**
-
-This directory contains images, icons, layouts, etc. that are used in this repository.
-
-> The SQL flavor used in the solution queries is **pgSQL**
+> The SQL flavor used in the solution queries is **PostgreSQL**
 ## Contents
 
 The solutions are provided in the following formats:
@@ -128,48 +122,3 @@ The following notebooks contains the solution along with some explanations (if r
 - [Difficulty Level : Medium]()
 - [Difficulty Level : Hard]()
 
-## Support
-
-If you have any doubts, queries or, suggestions then, please connect with me in any of the following platforms:
-
-[![Linkedin Badge][linkedinbadge]][linkedin] [![Twitter Badge][twitterbadge]][twitter]
-
-If you like my work then, you may [Buy me a coffee][buy_me_a_coffee]
-
-<a href="https://www.buymeacoffee.com/quantumudit" target="_blank">
-<img src="https://i.ibb.co/9cyrq6m/buy-me-a-coffee.png" alt="buy-me-a-coffee" border="0" width="170" height="50">
-</a>
-
-Get access to bonus content and exclusive prizes for both of us by signing-up, followed by email verification using this [link][website_link]
-
-<a href="https://datalemur.com?referralCode=hRH4ho3l" target="_blank">
-<img src="03_RESOURCES/referral-code.png" alt="datalemur-referral-link" border="0" width="350" height="80">
-</a>
-
-
-## License
-
-<a href = 'https://creativecommons.org/licenses/by-nc-sa/4.0/' target="_blank">
-    <img src="https://i.ibb.co/mvmWGkm/by-nc-sa.png" alt="by-nc-sa" border="0" width="88" height="31">
-</a>
-
-This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
-
-<!-- Image Links -->
-
-[project_logo]: 03_RESOURCES/project_cover_image.png
-
-<!-- External Links -->
-
-[website_link]: https://datalemur.com?referralCode=hRH4ho3l
-
-<!-- Profile Links -->
-
-[linkedin]: https://www.linkedin.com/in/uditkumarchatterjee/
-[twitter]: https://twitter.com/quantumudit
-[buy_me_a_coffee]: https://www.buymeacoffee.com/quantumudit
-
-<!-- Shields Profile Links -->
-
-[linkedinbadge]: https://img.shields.io/badge/-uditkumarchatterjee-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white
-[twitterbadge]: https://img.shields.io/badge/-@quantumudit-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/quantumudit
