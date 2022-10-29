@@ -4,12 +4,6 @@
 
 <h4 align="center">Solutions for <a href="" target="_blank">SQL</a> Challenges hosted on <a href="https://datalemur.com?referralCode=hRH4ho3l" target="_blank">DataLemur</a> </h4>
 
-<p align='center'>
-<img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
-<img src="https://i.ibb.co/MBDK1Pk/powered-by-coffee.png" alt="powered-by-coffee" border="0">
-<img src="https://i.ibb.co/CtGqhQH/cc-nc-sa.png" alt="cc-nc-sa" border="0">
-</p>
-
 <p align="center">
   <a href="#overview">Overview</a> •
   <a href="#contents">Contents</a> •
