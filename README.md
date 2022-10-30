@@ -38,7 +38,7 @@ In the below table, the columns indicate the following attributes related to the
 | 03 | [Laptop vs Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Laptop%20vs.%20Mobile%20Viewership.sql)
 | 04 | [Purchasing Activity by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution](01_SCRIPTS/Easy/04_easy_amazon_purchasing_activity_by_product_type.sql)
 | 05 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_SCRIPTS/Easy/05_easy_microsoft_teams_power_users.sql)
-| 06 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](01_SCRIPTS/Easy/06_easy_ebay_highest_number_of_products.sql)
+| 06 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Highest%20Number%20of%20Products.sql)
 | 07 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Histogram%20of%20Tweets.sql)
 | 08 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](01_SCRIPTS/Easy/08_easy_microsoft_spare_server_capacity.sql)
 | 09 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](01_SCRIPTS/Easy/09_easy_stitchfix_repeat_purchases_on_multiple_days.sql)
