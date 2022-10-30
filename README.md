@@ -48,7 +48,7 @@ In the below table, the columns indicate the following attributes related to the
 | 13 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_SCRIPTS/Easy/13_easy_uber_users_third_transaction.sql)
 | 14 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_SCRIPTS/Easy/14_easy_linkedin_linkedin_power_creators_part_1_.sql)
 | 15 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution](01_SCRIPTS/Easy/15_easy_adobe_photoshop_revenue_analysis.sql)
-| 16 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](01_SCRIPTS/Easy/16_easy_linkedin_data_science_skills.sql)
+| 16 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Data%20Science%20Skills.sql)
 | 17 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](01_SCRIPTS/Easy/17_easy_walmart_histogram_of_users_and_purchases.sql)
 | 18 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_SCRIPTS/Easy/18_easy_accenture_subject_matter_experts.sql)
 | 19 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](01_SCRIPTS/Easy/19_easy_paypal_final_account_balance.sql)
