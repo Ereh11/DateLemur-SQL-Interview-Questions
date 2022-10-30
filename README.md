@@ -56,7 +56,7 @@ In the below table, the columns indicate the following attributes related to the
 | 21 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Review%20Ratings.sql)
 | 22 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Unfinished%20Parts.sql)
 | 23 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_SCRIPTS/Easy/23_easy_paypal_unique_money_transfer_relationships.sql)
-| 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/Easy/24_easy_google_ad_campaign_roas.sql)
+| 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Ad%20Campaign%20ROAS.sql)
 | 25 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_SCRIPTS/Easy/25_easy_tiktok_second_day_confirmation.sql)
 | 26 | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](01_SCRIPTS/Easy/26_easy_visa_apple_pay_volume.sql)
 | 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution]
