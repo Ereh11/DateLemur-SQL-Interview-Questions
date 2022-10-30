@@ -51,7 +51,7 @@ In the below table, the columns indicate the following attributes related to the
 | 16 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Data%20Science%20Skills.sql)
 | 17 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](01_SCRIPTS/Easy/17_easy_walmart_histogram_of_users_and_purchases.sql)
 | 18 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_SCRIPTS/Easy/18_easy_accenture_subject_matter_experts.sql)
-| 19 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](01_SCRIPTS/Easy/19_easy_paypal_final_account_balance.sql)
+| 19 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Final%20Account%20Balance.sql)
 | 20 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](01_SCRIPTS/Easy/20_easy_accenture_compensation_outliers.sql)
 | 21 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](01_SCRIPTS/Easy/21_easy_amazon_average_review_ratings.sql)
 | 22 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Unfinished%20Parts.sql)
