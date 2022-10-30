@@ -40,7 +40,7 @@ In the below table, the columns indicate the following attributes related to the
 | 05 | [Teams Power Users](https://datalemur.com/questions/teams-power-users) | [Solution](01_SCRIPTS/Easy/05_easy_microsoft_teams_power_users.sql)
 | 06 | [Highest Number of Products](https://datalemur.com/questions/sql-highest-products) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Highest%20Number%20of%20Products.sql)
 | 07 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Histogram%20of%20Tweets.sql)
-| 08 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](01_SCRIPTS/Easy/08_easy_microsoft_spare_server_capacity.sql)
+| 08 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Spare%20Server%20Capacity.sql)
 | 09 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](01_SCRIPTS/Easy/09_easy_stitchfix_repeat_purchases_on_multiple_days.sql)
 | 10 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Duplicate%20Job%20Listings.sql)
 | 11 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](01_SCRIPTS/Easy/11_easy_facebook_average_post_hiatus_part_1.sql)
