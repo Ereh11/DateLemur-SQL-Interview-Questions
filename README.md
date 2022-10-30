@@ -59,6 +59,7 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
+| 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_SCRIPTS/Medium/01_medium_snapchat_sending_vs_opening_snaps.sql)
 | 01 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](01_SCRIPTS/Medium/01_medium_snapchat_sending_vs_opening_snaps.sql)
 | 02 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/Medium/02_medium_twitter_tweets_rolling_averages.sql)
 | 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](01_SCRIPTS/Medium/03_medium_google_odd_and_even_measurements.sql)
