@@ -46,7 +46,7 @@ In the below table, the columns indicate the following attributes related to the
 | 11 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](01_SCRIPTS/Easy/11_easy_facebook_average_post_hiatus_part_1.sql)
 | 12 | [App Clickthrough Rate (CTR)](https://datalemur.com/questions/sql-app-ctr) | [Solution](01_SCRIPTS/Easy/12_easy_facebook_app_clickthrough_rate_ctr_.sql)
 | 13 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_SCRIPTS/Easy/13_easy_uber_users_third_transaction.sql)
-| 14 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](01_SCRIPTS/Easy/14_easy_linkedin_linkedin_power_creators_part_1_.sql)
+| 14 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/LinkedIn%20Power%20Creators%20(Part%201).sql)
 | 15 | [Photoshop Revenue Analysis](https://datalemur.com/questions/photoshop-revenue-analysis) | [Solution](01_SCRIPTS/Easy/15_easy_adobe_photoshop_revenue_analysis.sql)
 | 16 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Data%20Science%20Skills.sql)
 | 17 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](01_SCRIPTS/Easy/17_easy_walmart_histogram_of_users_and_purchases.sql)
