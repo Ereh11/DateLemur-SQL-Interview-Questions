@@ -33,7 +33,7 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Data%20Science%20Skills.sql)
+| 01 | [Cities With Completed Trades](https://datalemur.com/questions/completed-trades) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cities%20With%20Completed%20Trades.sql)
 | 02 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Page%20With%20No%20Likes.sql)
 | 03 | [Laptop vs Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Laptop%20vs.%20Mobile%20Viewership.sql)
 | 04 | [Purchasing Activity by Product Type](https://datalemur.com/questions/sql-purchasing-activity) | [Solution](01_SCRIPTS/Easy/04_easy_amazon_purchasing_activity_by_product_type.sql)
