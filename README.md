@@ -43,7 +43,7 @@ In the below table, the columns indicate the following attributes related to the
 | 08 | [Spare Server Capacity](https://datalemur.com/questions/sql-spare-server-capacity) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Spare%20Server%20Capacity.sql)
 | 09 | [Repeat Purchases on Multiple Days](https://datalemur.com/questions/sql-repeat-purchases) | [Solution](01_SCRIPTS/Easy/09_easy_stitchfix_repeat_purchases_on_multiple_days.sql)
 | 10 | [Duplicate Job Listings](https://datalemur.com/questions/duplicate-job-listings) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Duplicate%20Job%20Listings.sql)
-| 11 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](01_SCRIPTS/Easy/11_easy_facebook_average_post_hiatus_part_1.sql)
+| 11 | [Average Post Hiatus (Part 1)](https://datalemur.com/questions/sql-average-post-hiatus-1) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Post%20Hiatus%20(Part%201).sql)
 | 12 | [App Clickthrough Rate (CTR)](https://datalemur.com/questions/sql-app-ctr) | [Solution](01_SCRIPTS/Easy/12_easy_facebook_app_clickthrough_rate_ctr_.sql)
 | 13 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](01_SCRIPTS/Easy/13_easy_uber_users_third_transaction.sql)
 | 14 | [LinkedIn Power Creators (Part 1)](https://datalemur.com/questions/linkedin-power-creators) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/LinkedIn%20Power%20Creators%20(Part%201).sql)
