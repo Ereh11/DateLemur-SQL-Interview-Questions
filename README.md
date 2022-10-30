@@ -53,7 +53,7 @@ In the below table, the columns indicate the following attributes related to the
 | 18 | [Subject Matter Experts](https://datalemur.com/questions/subject-matter-experts) | [Solution](01_SCRIPTS/Easy/18_easy_accenture_subject_matter_experts.sql)
 | 19 | [Final Account Balance](https://datalemur.com/questions/final-account-balance) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Final%20Account%20Balance.sql)
 | 20 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](01_SCRIPTS/Easy/20_easy_accenture_compensation_outliers.sql)
-| 21 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](01_SCRIPTS/Easy/21_easy_amazon_average_review_ratings.sql)
+| 21 | [Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Review%20Ratings.sql)
 | 22 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Unfinished%20Parts.sql)
 | 23 | [Unique Money Transfer Relationships](https://datalemur.com/questions/money-transfer-relationships) | [Solution](01_SCRIPTS/Easy/23_easy_paypal_unique_money_transfer_relationships.sql)
 | 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/Easy/24_easy_google_ad_campaign_roas.sql)
