@@ -59,7 +59,7 @@ In the below table, the columns indicate the following attributes related to the
 | 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Ad%20Campaign%20ROAS.sql)
 | 25 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Second%20Day%20Confirmation.sql)
 | 26 | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Apple%20Pay%20Volume.sql)
-| 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution]
+| 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Deal%20Size%20(Part%201).sql)
 | 27 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Top%20Rated%20Businesses.sql)
 
 
