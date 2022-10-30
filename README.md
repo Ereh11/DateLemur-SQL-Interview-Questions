@@ -59,7 +59,9 @@ In the below table, the columns indicate the following attributes related to the
 | 24 | [Ad Campaign ROAS](https://datalemur.com/questions/ad-campaign-roas) | [Solution](01_SCRIPTS/Easy/24_easy_google_ad_campaign_roas.sql)
 | 25 | [Second Day Confirmation](https://datalemur.com/questions/second-day-confirmation) | [Solution](01_SCRIPTS/Easy/25_easy_tiktok_second_day_confirmation.sql)
 | 26 | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](01_SCRIPTS/Easy/26_easy_visa_apple_pay_volume.sql)
-| 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](01_SCRIPTS/Easy/27_easy_salesforce_average_deal_size_part_1.sql)
+| 27 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution]
+| 27 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution]
+()
 
 
 #### Difficulty Level : Medium
