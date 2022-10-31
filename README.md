@@ -61,7 +61,7 @@ In the below table, the columns indicate the following attributes related to the
 |:------:|------------|:---------:|
 | 01 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/User's%20Third%20Transaction.sql)
 | 02 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Compensation%20Outliers.sql)
-| 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](01_SCRIPTS/Medium/01_medium_snapchat_sending_vs_opening_snaps.sql)
+| 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Sending%20vs.%20Opening%20Snaps.sql)
 | 02 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/Medium/02_medium_twitter_tweets_rolling_averages.sql)
 | 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](01_SCRIPTS/Medium/03_medium_google_odd_and_even_measurements.sql)
 | 04 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/Medium/04_medium_walmart_frequently_purchased_pairs.sql)
