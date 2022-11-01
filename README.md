@@ -63,7 +63,7 @@ In the below table, the columns indicate the following attributes related to the
 | 02 | [Compensation Outliers](https://datalemur.com/questions/compensation-outliers) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Compensation%20Outliers.sql)
 | 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Sending%20vs.%20Opening%20Snaps.sql)
 | 02 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/Medium/02_medium_twitter_tweets_rolling_averages.sql)
-| 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](01_SCRIPTS/Medium/03_medium_google_odd_and_even_measurements.sql)
+| 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Odd%20and%20Even%20Measurements.sql)
 | 04 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/Medium/04_medium_walmart_frequently_purchased_pairs.sql)
 | 05 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](01_SCRIPTS/Medium/05_medium_amazon_highest_grossing_items.sql)
 | 06 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](01_SCRIPTS/Medium/06_medium_etsy_first_transaction.sql)
