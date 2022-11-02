@@ -65,7 +65,7 @@ In the below table, the columns indicate the following attributes related to the
 | 02 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](01_SCRIPTS/Medium/02_medium_twitter_tweets_rolling_averages.sql)
 | 03 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Odd%20and%20Even%20Measurements.sql)
 | 04 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/Medium/04_medium_walmart_frequently_purchased_pairs.sql)
-| 05 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](01_SCRIPTS/Medium/05_medium_amazon_highest_grossing_items.sql)
+| 05 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Highest-Grossing%20Items.sql)
 | 06 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](01_SCRIPTS/Medium/06_medium_etsy_first_transaction.sql)
 | 07 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_SCRIPTS/Medium/07_medium_linkedin_linkedin_power_creators_part_2_.sql)
 | 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](01_SCRIPTS/Medium/08_medium_spotify_top_5_artists.sql)
