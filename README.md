@@ -53,7 +53,7 @@ In the below table, the columns indicate the following attributes related to the
 | 18 | [Apple Pay Volume](https://datalemur.com/questions/apple-pay-volume) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Apple%20Pay%20Volume.sql)
 | 19 | [Average Deal Size (Part 1)](https://datalemur.com/questions/sql-average-deal-size) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Average%20Deal%20Size%20(Part%201).sql)
 | 20 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Top%20Rated%20Businesses.sql)
-| 21 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Patient Support Analysis (Part 1).sql)
+| 21 | [Patient Support Analysis (Part 1)](https://datalemur.com/questions/frequent-callers) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Patient%20Support%20Analysis%20(Part%201).sql)
 
 
 
