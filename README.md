@@ -70,7 +70,7 @@ In the below table, the columns indicate the following attributes related to the
 | 06 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Highest-Grossing%20Items.sql)
 | 07 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/First%20Transaction.sql)
 | 07 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_SCRIPTS/Medium/07_medium_linkedin_linkedin_power_creators_part_2_.sql)
-| 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](01_SCRIPTS/Medium/08_medium_spotify_top_5_artists.sql)
+| 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution]([01_SCRIPTS/Medium/08_medium_spotify_top_5_artists.sql](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%205%20Artists.sql))
 | 09 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](01_SCRIPTS/Medium/09_medium_tiktok_signup_confirmation_rate.sql)
 | 10 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution](01_SCRIPTS/Medium/10_medium_google_consulting_bench_time.sql)
 | 11 | [Spotify Listening History](https://datalemur.com/questions/spotify-listening-history) | [Solution](01_SCRIPTS/Medium/11_medium_spotify_spotify_listening_history.sql)
