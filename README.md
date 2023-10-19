@@ -71,7 +71,7 @@ In the below table, the columns indicate the following attributes related to the
 | 07 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/First%20Transaction.sql)
 | 07 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_SCRIPTS/Medium/07_medium_linkedin_linkedin_power_creators_part_2_.sql)
 | 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%205%20Artists.sql)
-| 09 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](01_SCRIPTS/Medium/09_medium_tiktok_signup_confirmation_rate.sql)
+| 09 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Signup%20Activation%20Rate.sql)
 | 10 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution](01_SCRIPTS/Medium/10_medium_google_consulting_bench_time.sql)
 | 11 | [Spotify Listening History](https://datalemur.com/questions/spotify-listening-history) | [Solution](01_SCRIPTS/Medium/11_medium_spotify_spotify_listening_history.sql)
 | 12 | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](01_SCRIPTS/Medium/12_medium_accenture_fill_missing_client_data.sql)
