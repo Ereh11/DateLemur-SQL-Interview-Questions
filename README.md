@@ -66,19 +66,12 @@ In the below table, the columns indicate the following attributes related to the
 | 03 | [Sending vs. Opening Snaps](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Sending%20vs.%20Opening%20Snaps.sql)
 | 04 | [Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Tweets'%20Rolling%20Averages.sql)
 | 05 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Odd%20and%20Even%20Measurements.sql)
-| 05 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](01_SCRIPTS/Medium/04_medium_walmart_frequently_purchased_pairs.sql)
 | 06 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Highest-Grossing%20Items.sql)
 | 07 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/First%20Transaction.sql)
-| 07 | [LinkedIn Power Creators (Part 2)](https://datalemur.com/questions/linkedin-power-creators-part2) | [Solution](01_SCRIPTS/Medium/07_medium_linkedin_linkedin_power_creators_part_2_.sql)
 | 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%205%20Artists.sql)
 | 09 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Signup%20Activation%20Rate.sql)
-| 10 | [Consulting Bench Time](https://datalemur.com/questions/consulting-bench-time) | [Solution](01_SCRIPTS/Medium/10_medium_google_consulting_bench_time.sql)
-| 11 | [Spotify Listening History](https://datalemur.com/questions/spotify-listening-history) | [Solution](01_SCRIPTS/Medium/11_medium_spotify_spotify_listening_history.sql)
-| 12 | [Fill Missing Client Data](https://datalemur.com/questions/fill-missing-product) | [Solution](01_SCRIPTS/Medium/12_medium_accenture_fill_missing_client_data.sql)
-| 13 | [User Session Activity](https://datalemur.com/questions/sql-session-activity) | [Solution](01_SCRIPTS/Medium/13_medium_twitter_user_session_activity.sql)
-| 14 | [Invalid Search Results](https://datalemur.com/questions/invalid-search-pct) | [Solution](01_SCRIPTS/Medium/14_medium_google_invalid_search_results.sql)
-| 15 | [Top Rated Businesses](https://datalemur.com/questions/sql-top-businesses) | [Solution](01_SCRIPTS/Medium/15_medium_yelp_top_rated_businesses.sql)
-| 16 | [Same Week Purchases](https://datalemur.com/questions/same-week-purchases) | [Solution](01_SCRIPTS/Medium/16_medium_etsy_same_week_purchases.sql)
+| 10 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Supercloud%20Customer.sql)
+
 
 #### Difficulty Level : Hard
 
