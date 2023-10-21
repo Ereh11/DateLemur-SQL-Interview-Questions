@@ -70,8 +70,8 @@ In the below table, the columns indicate the following attributes related to the
 | 07 | [First Transaction](https://datalemur.com/questions/sql-first-transaction) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/First%20Transaction.sql)
 | 08 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%205%20Artists.sql)
 | 09 | [Signup Confirmation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Signup%20Activation%20Rate.sql)
-| 10 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Supercloud%20Customer.sql)
-
+| 10 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Supercloud%20Customer.sql) 
+| 11 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Histogram%20of%20Users%20and%20Purchases.sql)
 
 #### Difficulty Level : Hard
 
