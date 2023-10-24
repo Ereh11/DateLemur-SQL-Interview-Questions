@@ -74,7 +74,7 @@ In the below table, the columns indicate the following attributes related to the
 | 10 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Supercloud%20Customer.sql) 
 | 11 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Histogram%20of%20Users%20and%20Purchases.sql) 
 | 12 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Card%20Launch%20Success.sql)
-| 13 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution]()
+| 13 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Compressed%20Mode.sql)
 
 #### Difficulty Level : Hard
 
