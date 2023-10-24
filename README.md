@@ -75,6 +75,7 @@ In the below table, the columns indicate the following attributes related to the
 | 11 | [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Histogram%20of%20Users%20and%20Purchases.sql) 
 | 12 | [Card Launch Success](https://datalemur.com/questions/card-launch-success) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Card%20Launch%20Success.sql)
 | 13 | [Compressed Mode](https://datalemur.com/questions/alibaba-compressed-mode) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Compressed%20Mode.sql)
+| 14 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution]()
 
 #### Difficulty Level : Hard
 
