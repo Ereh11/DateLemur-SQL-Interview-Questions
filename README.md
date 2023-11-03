@@ -83,6 +83,6 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution]()
+| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Active%20User%20Retention.sql)
 
 
