@@ -83,10 +83,6 @@ In the below table, the columns indicate the following attributes related to the
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
-| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution](01_SCRIPTS/Hard/01_hard_facebook_active_user_retention.sql)
-| 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](01_SCRIPTS/Hard/02_hard_wayfair_yoy_growth_rate.sql)
-| 03 | [User Shopping Sprees](https://datalemur.com/questions/amazon-shopping-spree) | [Solution](01_SCRIPTS/Hard/03_hard_amazon_user_shopping_sprees.sql)
-| 04 | [Monthly Merchant Balance](https://datalemur.com/questions/sql-monthly-merchant-balance) | [Solution](01_SCRIPTS/Hard/04_hard_visa_monthly_merchant_balance.sql)
-| 05 | [Bad Delivery Rate](https://datalemur.com/questions/sql-bad-experience) | [Solution](01_SCRIPTS/Hard/05_hard_doordash_bad_delivery_rate.sql)
-| 06 | []() | [Solution](01_SCRIPTS/Hard)
+| 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution]()
+
 
