@@ -57,7 +57,7 @@ In the below table, the columns indicate the following attributes related to the
 | 22 | [Pharmacy Analytics (Part 2)](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%202).sql)
 | 23 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%203).sql)
 | 24 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cards%20Issued%20Difference.sql)
-| 25 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution]()
+| 25 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Compressed%20Mean.sql)
 
 #### Difficulty Level : Medium
 
