@@ -29,7 +29,7 @@ In the below table, the columns indicate the following attributes related to the
 - **Challenge :** Link to the SQL challenge hosted on [DataLemur](https://datalemur.com/sql-interview-questions)
 - **Solution Script :** Link to the solution SQL script hosted in this repository
 
-#### Difficulty Level : Easy
+#### Difficulty Level: Easy
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
@@ -59,7 +59,7 @@ In the below table, the columns indicate the following attributes related to the
 | 24 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cards%20Issued%20Difference.sql)
 | 25 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Compressed%20Mean.sql)
 
-#### Difficulty Level : Medium
+#### Difficulty Level: Medium
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
@@ -80,14 +80,14 @@ In the below table, the columns indicate the following attributes related to the
 | 15 | [Best-Selling Product](https://datalemur.com/questions/best-selling-products) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Best-Selling%20Product.sql)
 | 16 | [NYC Area Code](https://datalemur.com/questions/nyc-area-code) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/NYC%20Area%20Code.sql)
 
-#### Difficulty Level : Hard
+#### Difficulty Level: Hard
 
 | ID | Challenge | Solution Script |
 |:------:|------------|:---------:|
 | 01 | [Active User Retention](https://datalemur.com/questions/user-retention) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Active%20User%20Retention.sql)
 | 02 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Y-on-Y%20Growth%20Rate.sql)
 | 03 | [Advertiser Status](https://datalemur.com/questions/updated-status) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Advertiser%20Status.sql)
-| 04 | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution]()
+| 04 | [Median Google Search Frequency](https://datalemur.com/questions/median-search-freq) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Hard/Median%20Google%20Search%20Frequency.sql)
 
 
 
