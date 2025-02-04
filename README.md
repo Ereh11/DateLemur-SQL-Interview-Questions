@@ -58,6 +58,7 @@ In the below table, the columns indicate the following attributes related to the
 | 23 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Pharmacy%20Analytics%20(Part%203).sql)
 | 24 | [Cards Issued Difference](https://datalemur.com/questions/cards-issued-difference) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Cards%20Issued%20Difference.sql)
 | 25 | [Compressed Mean](https://datalemur.com/questions/alibaba-compressed-mean) | [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Easy/Compressed%20Mean.sql)
+| 26 | [Well Paid Employees](https://datalemur.com/questions/sql-well-paid-employees) | [Solution](DateLemur-SQL-Interview-Questions\DataLemur-SQL-Challenges\Easy\Well Paid Employees.sql)
 
 #### Difficulty Level: Medium
 
