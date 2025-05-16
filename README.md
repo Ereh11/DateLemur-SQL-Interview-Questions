@@ -79,6 +79,7 @@ In the below table, the columns indicate the following attributes related to the
 | 15  | [Best-Selling Product](https://datalemur.com/questions/best-selling-products)                  |          [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Best-Selling%20Product.sql)          |
 | 16  | [NYC Area Code](https://datalemur.com/questions/nyc-area-code)                                 |            [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/NYC%20Area%20Code.sql)             |
 | 17  | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Second%20Highest%20Salary.sql)             |
+| 18  | [Second Highest Salary](https://datalemur.com/questions/sql-top-three-salaries) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Second%20Highest%20Salary.sql)             |
 
 #### Difficulty Level: Hard
 
