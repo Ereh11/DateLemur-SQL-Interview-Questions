@@ -80,7 +80,7 @@ In the below table, the columns indicate the following attributes related to the
 | 16  | [NYC Area Code](https://datalemur.com/questions/nyc-area-code)                                 |            [Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/NYC%20Area%20Code.sql)             |
 | 17  | [Second Highest Salary](https://datalemur.com/questions/sql-second-highest-salary) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Second%20Highest%20Salary.sql)             |
 | 18  | [Second Highest Salary](https://datalemur.com/questions/sql-top-three-salaries) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Top%20Three%20Salaries.sql)             |
-| 19  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Swapped%Food%Delivery.sql)             |
+| 19  | [Swapped Food Delivery](https://datalemur.com/questions/sql-swapped-food-delivery) |[Solution](https://github.com/Ereh11/DateLemur-SQL-Interview-Questions/blob/main/DataLemur-SQL-Challenges/Medium/Swapped%20Food%20Delivery.sql)             |
 
 #### Difficulty Level: Hard
 
